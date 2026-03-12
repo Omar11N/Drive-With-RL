@@ -23,7 +23,7 @@ Training deep RL agents to drive a **Porsche Taycan Turbo S** on a racing circui
 
 The physics layer uses the **MVC Car Controller**, a professional Unity asset modelling real suspension dynamics, tyre friction curves, torque delivery, and gearbox behaviour. The agent interacts with the vehicle through a reflection-based interface with no direct access to internal physics state — the same inputs a human driver would use.
 
-Four algorithms are benchmarked in the same environment: **PPO**, **SAC**, **TQMC**, and **SAC-MC** — the last being SAC extended with *Morphological Computation as Intrinsic Reward*, the novel method from the author's [published MSc research (GSO 2025)](https://github.com/Omar11N).
+Four algorithms are benchmarked in the same environment: **PPO**, **SAC**, and **SAC-MC** — the last being SAC extended with *Morphological Computation as Intrinsic Reward*, the novel method from the author's [published MSc research (GSO 2025)](https://github.com/Omar11N).
 
 ---
 
