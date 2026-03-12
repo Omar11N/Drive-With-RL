@@ -11,6 +11,12 @@
 
 ---
 
+## 🎬 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/UmS7d5wSJe8/maxresdefault.jpg)](https://www.youtube.com/watch?v=UmS7d5wSJe8)
+
+---
+
 ## Overview
 
 Training deep RL agents to drive a **Porsche Taycan Turbo S** on a racing circuit from scratch — no imitation learning, no human demonstrations. The agent learns throttle, braking, and steering purely through trial and error in a high-fidelity Unity simulation.
